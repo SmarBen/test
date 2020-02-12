@@ -1,7 +1,6 @@
 backend:
- name: gitlab
- repo: coddity/blog-coddity
- branch: CMS-blog
+ name: github
+ repo: SmarBen/test
 
 
 media_folder: static/assets
